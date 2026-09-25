@@ -1,0 +1,6 @@
+{
+  "name": "REQruit - Creative Talent & Creator Marketplace",
+  "description": "Premium platform connecting high-caliber content creators and creative service providers with ambitious brands and clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
